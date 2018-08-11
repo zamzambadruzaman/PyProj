@@ -26,4 +26,5 @@ p1 = Employee('Budi', 'Anduk', 'Kota Garut')
 p2 = Employee('Wati', 'Gehu', 'Kota Bogor')
 
 #Print Employeeeee
-print(Employee.num_of_person)
+print(p1.get_fullname())
+print(p2.get_fullname())
