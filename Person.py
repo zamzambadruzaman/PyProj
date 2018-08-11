@@ -22,8 +22,8 @@ class Employee(Person):
 
 Employee.set_person_name(100)
 
-p1 = Employee('Azam Badz', 'Kasep', 'Kota Garut')
-p2 = Employee('Nadiya', 'Geulis', 'Kota Bogor')
+p1 = Employee('Budi', 'Anduk', 'Kota Garut')
+p2 = Employee('Wati', 'Gehu', 'Kota Bogor')
 
 #Print Employeeeee
 print(Employee.num_of_person)
